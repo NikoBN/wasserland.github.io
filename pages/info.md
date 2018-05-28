@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Info"
-subheadline: "About Your Project"
+subheadline: "Über unsere Initiative"
 teaser: ""
 permalink: /info/
 ---

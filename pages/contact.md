@@ -1,15 +1,14 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact Us"
+title: "Kontakt"
+meta_title: "Kontakt"
 subheadline: ""
 teaser: ""
-permalink: "/contact/"
+permalink: "/kontakt/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
+- [Stadtwerke Bonn Wasserlandbad][1]
 
 
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+ [1]: https://www.wasserlandbad.de/
+

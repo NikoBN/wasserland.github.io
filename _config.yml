@@ -20,6 +20,7 @@ description: "Wasserlandbad in Bonn-Dottendorf."
 
 # Main author of the website
 # See > authors.yml
+# See > authors.ym
 author: wasserland
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
@@ -70,7 +71,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: "en"
+language: "de"
 
 
 # Used › default.html front-matter and compress.html
