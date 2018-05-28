@@ -21,7 +21,7 @@
   side: left
   dropdown:
   - title: "Aktuelles"
-    url: "/artikel/archiv/"
+    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
