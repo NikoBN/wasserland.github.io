@@ -11,17 +11,17 @@ header:
 widget1:
   title: "Planschen, Springen, Rutschen"
   # url: 'https://domain.de/must-be-absolut-url-like-this-one/'
-  image: familienbad.png
+  image: /familienbad.png
   text: 'Auch für die ganz Kleinen ...'
 widget2:
   title: "Familienfreundliche Öffnungszeiten"
   # url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: ganzjaehrig.png
+  image: /ganzjaehrig.png
   text: 'Vielfältige Möglichkeiten die Schwimmfähigkeiten zu erproben...'
 widget3:
   title: "Keine Beschränkungen"
   # url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: barrierefrei.png
+  image: /barrierefrei.png
   text: 'für unsere Mitmenschen mit Handicap'
 #
 # Use the call for action to show a button on the frontpage
