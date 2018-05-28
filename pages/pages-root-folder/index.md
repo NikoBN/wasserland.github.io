@@ -7,22 +7,22 @@
 layout: frontpage
 header:
   #image_fullwidth: you-can-delete-me-header.png
-  image_fullwidth: wb-header.png
+  image_fullwidth: header-frontpage.png
 widget1:
-  title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "Planschen, Springen, Rutschen"
+  # url: 'https://domain.de/must-be-absolut-url-like-this-one/'
+  image: 'https://dummyimage.com/302x183/6293ff/ffffff.png&text=Familienbad'
+  text: 'Auch für die ganz Kleinen ...'
 widget2:
-  title: "Widget 2"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "Familienfreundliche Öffnungszeiten"
+  # url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  image: 'https://dummyimage.com/302x183/6293ff/ffffff.png&text=Ganzjährig'
+  text: 'Vielfältige Möglichkeiten die Schwimmfähigkeiten zu erproben...'
 widget3:
-  title: "Widget 3"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "Keine Beschränkungen"
+  # url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  image: 'https://dummyimage.com/302x183/6293ff/ffffff.png&text=Barrierefrei'
+  text: 'für unsere MMitmenschen mit Handicap'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,10 +33,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+# callforaction:
+#   url: https://tinyletter.com/feeling-responsive
+#   text: Inform me about new updates and features ›
+#   style: alert
 permalink: /index.html
 ---
 <div id="videoModal" class="reveal-modal large" data-reveal="">
