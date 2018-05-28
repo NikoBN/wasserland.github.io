@@ -22,7 +22,7 @@ widget3:
   title: "Keine Beschränkungen"
   # url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'https://dummyimage.com/302x183/6293ff/ffffff.png&text=Barrierefrei'
-  text: 'für unsere MMitmenschen mit Handicap'
+  text: 'für unsere Mitmenschen mit Handicap'
 #
 # Use the call for action to show a button on the frontpage
 #
