@@ -1,0 +1,2 @@
+Header always set Referrer-Policy "same-origin"
+Header set Strict-Transport-Security "max-age=3600" env=HTTPS
