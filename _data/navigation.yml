@@ -17,7 +17,7 @@
     url: "#"
 
 - title: Artikel
-  url: "/artikel/"
+  url: "#"
   side: left
   dropdown:
   - title: "Aktuelles"
