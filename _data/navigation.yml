@@ -16,12 +16,12 @@
   - title: "Menschen mit Behinderung"
     url: "/barrierefrei/"
 
-- title: Artikel
-  url: "#"
+- title: Aktuelles
+  url: "/blog/archive/"
   side: left
-  dropdown:
-  - title: "Aktuelles"
-    url: "/blog/archive/"
+  #dropdown:
+  #- title: "Aktuelles"
+  #  url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
@@ -30,10 +30,15 @@
   url: "/info/"
   side: right
 
-- title: "Suche"
-  url: "/suche/"
-  side: right
+#- title: "Suche"
+#  url: "/suche/"
+#  side: right
 
 - title: "Kontakt"
   url: "/kontakt/"
   side: right
+
+- title: "Links"
+  url: "/links/"
+  side: right
+
