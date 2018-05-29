@@ -10,6 +10,10 @@ permalink: "/kontakt/"
 #### _Betreiber und verantwortlich für den Inhalt_
 
 Bürgerinitiative "Familien für das Wasserlandbad"
+Kontakt:
+Niko Bohnen
+Am Wolfsbach 24
+53229 Bonn
 
 email: info@unser-wasserlandbad.de
 
