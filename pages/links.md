@@ -2,8 +2,7 @@
 layout: page
 title: "Links"
 meta_title: "Links"
-subheadline: "Weitere Informationen"
-teaser: "Weitere Informationen zu unserem neuen Schwimmbad"
+teaser: "Weitere Informationen zu unserem neuen Sport- und Familienbad"
 permalink: "/links/"
 ---
 
