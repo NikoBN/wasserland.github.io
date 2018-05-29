@@ -10,11 +10,11 @@
   side: left
   dropdown:
   - title: "Familien"
-    url: "#"
+    url: "/familienbad/"
   - title: "Kinder und Jugendliche"
-    url: "#"
+    url: "/kinder/"
   - title: "Menschen mit Behinderung"
-    url: "#"
+    url: "/barrierefrei/"
 
 - title: Artikel
   url: "#"

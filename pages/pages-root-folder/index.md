@@ -10,17 +10,17 @@ header:
   #image_fullwidth: header-frontpage.png
 widget1:
   title: "Planschen, Springen, Rutschen"
-  # url: 'https://domain.de/must-be-absolut-url-like-this-one/'
+  url: /familienbad/
   image: /images/familienbad.png
   text: 'Auch für die ganz Kleinen ...'
 widget2:
   title: "Familienfreundliche Öffnungszeiten"
-  # url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: /ganzjaehrig/
   image: /images/ganzjaehrig.png
   text: 'Vielfältige Möglichkeiten die Schwimmfähigkeiten zu erproben...'
 widget3:
   title: "Keine Beschränkungen"
-  # url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: /barrierefrei/
   image: /images/barrierefrei.png
   text: 'für unsere Mitmenschen mit Handicap'
 #
