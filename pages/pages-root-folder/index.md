@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   #image_fullwidth: you-can-delete-me-header.png
-  image_fullwidth: header-frontpage.png
+  #image_fullwidth: header-frontpage.png
 widget1:
   title: "Planschen, Springen, Rutschen"
   # url: 'https://domain.de/must-be-absolut-url-like-this-one/'
